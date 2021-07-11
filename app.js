@@ -8,13 +8,6 @@ const unmatched = document.querySelector(".unmatched");
 const clickNumber = document.querySelector(".clicked");
 
 
-// function display(){
-//   if(matchPin.value == ""){
-//     submitBtn.classList.add('disabled')
-//   }else{
-//     submitBtn.classList.remove('disabled')
-//   }
-// }
 
 
 function generateRandomNumber() {
